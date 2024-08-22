@@ -1,2 +1,2 @@
 # runmixregmls
-Run the MIXREGMLS mixed-effects location scale software from within Stata
+Mixed-effects location scale model analysis software assuming a (conditionally) normally-distributed dependent variable Use runmixregmls (mixreglms) With STATA 18
