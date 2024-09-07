@@ -1,6 +1,8 @@
 # runmixregmls
 Mixed-effects location scale model analysis software assuming a (conditionally) normally-distributed dependent variable Use runmixregmls (mixreglms) With STATA 18
 
+https://www.youtube.com/watch?v=29LP4gmj18c
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
